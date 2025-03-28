@@ -1,0 +1,42 @@
+; Addresses of the Commodore 64 Kernal routines.
+
+Acptr	= $ffa5
+Chkin	= $ffc6
+Chkout	= $ffc9
+Chrin	= $ffcf
+Chrout	= $ffd2
+Ciout	= $ffa8
+Cint	= $ff81
+Clall	= $ffe7
+Close	= $ffc3
+ClrChn	= $ffcc
+Getin	= $ffe4
+Iobase	= $fff3
+Ioinit	= $ff84
+Listen	= $ffb1
+Load	= $ffd5
+Membot	= $ff9c
+Memtop	= $ff99
+Open	= $ffc0
+Plot	= $fff0
+Ramtas	= $ff87
+Rdtim	= $ffde
+Readst	= $ffb7
+Restor	= $ff8a
+Save	= $ffd8
+Scnkey	= $ff9f
+Screen	= $ffed
+Second	= $ff93
+Setlfs	= $ffba
+Setmsg	= $ff90
+Setnam	= $ffbd
+Settim	= $ffdb
+Settmo	= $ffa2
+Stop	= $ffe1
+Talk	= $ffb4
+Tksa	= $ff96
+Udtim	= $ffea
+Unlsn	= $ffae
+Untlk	= $ffab
+Vector	= $ff8d
+
